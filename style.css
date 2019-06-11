@@ -1,0 +1,20 @@
+body {
+    background-image: url("images/GameBg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+canvas {
+    display: block;
+}
+
+
+#canvasBg {
+    background: #ffffff;
+}
+
+
+#overlapping canvas {
+    margin: -600px 0 0;
+}
