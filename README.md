@@ -1,4 +1,4 @@
 # GhostVMazz
 Play for Fun
 
-(Link)[https://vssnreddy.github.io/MiniProject/GhostVMazz]
+[Link](https://vssnreddy.github.io/MiniProject/GhostVMazz)
